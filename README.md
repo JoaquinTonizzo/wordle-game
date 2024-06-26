@@ -1,10 +1,10 @@
-# Wordle Game
+# Wordle Game ​🎮​​
 
-## Descripción
+## Descripción 💫​
 
 Wordle Game es un juego de palabras desarrollado como proyecto para la materia de Introducción a la Programación en la Licenciatura en Sistemas de la UNGS. Está inspirado en el popular juego Wordle, donde los jugadores intentan adivinar una palabra secreta dentro de un número limitado de intentos.
 
-## Funcionalidades
+## Funcionalidades 💻
 
 - **Adivinanza de Palabras:** Los jugadores intentan adivinar una palabra secreta en base a pistas proporcionadas.
 - **Interacción Interactiva:** Interfaz de usuario simple y amigable para facilitar la interacción con el juego.
